@@ -13,7 +13,7 @@ public class Employee_Wage {
 			System.out.println("Employee is Present");
 		}else {
 			System.out.println("Employee is not Present");
-		}
+		} 
 	}
 	
 }
